@@ -1,2 +1,2 @@
-# dell-machine-learning
-Anotações das aulas, oficinas e datasets utilizados.
+# Curso de Machine Learning - Lead Dell
+Anotações das aulas, oficinas e datasets utilizados durante o curso.
